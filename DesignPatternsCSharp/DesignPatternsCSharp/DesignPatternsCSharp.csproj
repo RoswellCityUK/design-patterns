@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Factories\" />
+    <Folder Include="Adapter\" />
+    <Folder Include="Bridge\" />
+    <Folder Include="Composite\" />
+    <Folder Include="Decorator\" />
+    <Folder Include="Facade\" />
+    <Folder Include="Flyweight\" />
+    <Folder Include="ChainOfResponsibility\" />
+    <Folder Include="Command\" />
+    <Folder Include="Interpreter\" />
+    <Folder Include="Iterator\" />
+    <Folder Include="Mediator\" />
+    <Folder Include="Memento\" />
+    <Folder Include="Visitor\" />
+    <Folder Include="TemplateMethod\" />
+    <Folder Include="Strategy\" />
+    <Folder Include="State\" />
+    <Folder Include="Observer\" />
+    <Folder Include="NullObject\" />
+    <Folder Include="Proxy\" />
+    <Folder Include="Singleton\" />
+    <Folder Include="Prototype\" />
+  </ItemGroup>
+
+</Project>
