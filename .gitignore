@@ -5,3 +5,5 @@
 /DesignPatternsCSharp/.vs
 /DesignPatternsCSharp/DesignPatternsCSharp/obj
 *.log
+/.vs
+/DesignPatternsCSharp/obj
